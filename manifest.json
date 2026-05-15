@@ -1,0 +1,8 @@
+{
+  "name": "assets-music",
+  "description": "Game music tracks (ambient, battle, menu, exploration)",
+  "version": "0.1.0",
+  "category": "music",
+  "theme": "audio",
+  "assets": []
+}
